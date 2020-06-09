@@ -15,6 +15,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -35,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1d4CjknvuX7AFCGBG5zUke7JdGg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -185,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591675115588</updated>
-      <workItem from="1591675116954" duration="30000" />
+      <workItem from="1591675116954" duration="315000" />
     </task>
     <servers />
   </component>
